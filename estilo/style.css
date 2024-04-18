@@ -15,8 +15,8 @@ Cores do Site:
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family: 'android';
-    src: url('fontes/idroid/iDroid.otf') format('opentype');
+    font-family: 'Android';
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
     }
 
@@ -32,7 +32,7 @@ Cores do Site:
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue';
-    --font-android: 'android';
+    --font-android: 'Android';
 }
 
 /* Regras de Espaço do Site */
