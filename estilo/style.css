@@ -15,8 +15,13 @@ Cores do Site:
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
+<<<<<<< HEAD
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
+=======
+    font-family: 'android';
+    src: url('./fontes/idroid/iDroid.otf') format('opentype');
+>>>>>>> f7354ca07ff3735ca70cdb1935a6f1268af1b42b
     font-weight: normal;
     }
 
